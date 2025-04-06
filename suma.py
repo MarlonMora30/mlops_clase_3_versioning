@@ -1,4 +1,5 @@
 def suma(a,b):
+    """suma dos numeros"""
     return a+b
 
 if __name__ == '__main__':
